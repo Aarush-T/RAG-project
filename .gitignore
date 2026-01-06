@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+notepad.gitignore
+.env
+venv/
+__pycache__/
+*.pyc
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +212,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+>>>>>>> ce9d0eb955bc095fbaaef64bce821cbce9468152
